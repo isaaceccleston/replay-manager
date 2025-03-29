@@ -13,13 +13,23 @@ if (File.Exists(file)){
     replay = JsonConvert.DeserializeObject<Replay>(jsonStr);
 }
 
-foreach(long a in replay.GetObjectsOfActor(29)){
-    System.Console.WriteLine(a);
+
+int frameCount = 0;
+foreach(Frame frame in replay.network_frames.Frames){
+    frameCount++;
+    System.Console.WriteLine($"\nFrame: {frameCount}, time: {frame.time}");
+    System.Console.WriteLine("New Actors:");
+    foreach(Actor actor in frame.GetReplicatedRBStates(frame.new_actors)){
+        System.Console.WriteLine($"\tActorID: {actor.actor_id}, Object: {replay.GetNameFromObjectId(actor.object_id)}");
+        System.Console.WriteLine("\t" + actor.attribute.RbToString());
+    }
+    System.Console.WriteLine("Updated Actors:");
+    foreach(Actor actor in frame.GetReplicatedRBStates(frame.updated_actors)){
+        System.Console.WriteLine($"\tActorID: {actor.actor_id}, Object: {replay.GetNameFromObjectId(actor.object_id)}");
+        System.Console.WriteLine("\t" + actor.attribute.RbToString());
+    }
 }
 
-foreach(Actor a in replay.GetAllActors()){
-    System.Console.WriteLine(a);
-}
 
 
 

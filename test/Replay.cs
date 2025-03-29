@@ -53,4 +53,8 @@ public class Replay(){
         }
         return objects;
     }
+
+    public string GetNameFromObjectId(int objectId){
+        return objects[objectId];
+    }
 }

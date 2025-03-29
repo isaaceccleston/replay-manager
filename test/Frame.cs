@@ -1,4 +1,5 @@
 using System.Diagnostics;
+using System.Security.AccessControl;
 
 public class Frame(){
     public float time;
@@ -19,4 +20,14 @@ public class Frame(){
         return allActors;
     }
 
+    public Actor[] GetReplicatedRBStates(Actor[] actors){
+        List<Actor> rbActors = new List<Actor>();
+        foreach (Actor actor in actors)
+        {
+            if(actor.object_id == 57){
+                rbActors.Add(actor);
+            }
+        }
+        return rbActors.ToArray();
+    }
 }

@@ -1,3 +1,5 @@
+using System.Diagnostics.Contracts;
+
 public class Attribute(){
     public RigidBody rigidBody;
     public int Byte;
@@ -6,4 +8,9 @@ public class Attribute(){
     public ActiveActor activeActor;
     public string String;
     public bool Boolean;
+
+    public string RbToString()
+    {
+        return $"Attribute: {rigidBody.ToString()}";
+    } 
 }
