@@ -1,3 +1,3 @@
 public class NetworkFrames(){
-    public Frame[]? Frames;
+    public Frame[] Frames;
 }

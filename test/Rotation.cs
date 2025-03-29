@@ -1,5 +1,5 @@
 public class Rotation(){
-    public string? yaw;
-    public string? pitch;
-    public string? roll;
+    public string yaw;
+    public string pitch;
+    public string roll;
 }

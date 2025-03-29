@@ -1,4 +1,4 @@
 public class ActiveActor(){
-    public bool? active;
-    public int? actor;
+    public bool active;
+    public int actor;
 }

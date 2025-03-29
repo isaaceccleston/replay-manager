@@ -1,4 +1,4 @@
 public class ClassIndex(){
-    public string? className;
-    public long? index;
+    public string className;
+    public long index;
 }
