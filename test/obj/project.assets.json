@@ -55,19 +55,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gydre\\.nuget\\packages\\": {}
+    "/Users/isaaceccleston/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gydre\\Documents\\RLTesting\\test\\test\\test.csproj",
+      "projectUniqueName": "/Users/isaaceccleston/Documents/replay-manager/test/test.csproj",
       "projectName": "test",
-      "projectPath": "C:\\Users\\gydre\\Documents\\RLTesting\\test\\test\\test.csproj",
-      "packagesPath": "C:\\Users\\gydre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gydre\\Documents\\RLTesting\\test\\test\\obj\\",
+      "projectPath": "/Users/isaaceccleston/Documents/replay-manager/test/test.csproj",
+      "packagesPath": "/Users/isaaceccleston/.nuget/packages/",
+      "outputPath": "/Users/isaaceccleston/Documents/replay-manager/test/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\gydre\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/isaaceccleston/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -118,7 +118,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
