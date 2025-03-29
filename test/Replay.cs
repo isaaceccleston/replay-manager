@@ -1,20 +1,20 @@
 public class Replay(){
-    public string header_size {get; set;}
-    public string header_crc {get; set;} 
-    public string major_version {get; set;}
-    public string minor_version {get; set;}
-    public string net_version {get; set;}
-    public string game_type {get; set;}
-    public Properties properties {get; set;}
-    public string content_size {get; set;}
-    public string content_crc {get; set;}
-    public NetworkFrames network_frames {get; set;}
-    public string[] levels{get;set;}
-    public Keyframe[] keyframes{get;set;}
-    public Debug[] debug_info{get;set;}
-    public TickMark[] tick_marks{get;set;}
-    public string[] packages{get;set;}
-    public string[] objects{get;set;}
-    public string[] names{get;set;}
-    public ClassIndex[] class_indices{get;set;}
+    public string? header_size; 
+    public string? header_crc;
+    public string? major_version;
+    public string? minor_version;
+    public string? net_version;
+    public string? game_type;
+    public Properties? properties;
+    public string? content_size;
+    public string? content_crc;
+    public NetworkFrames? network_frames;
+    public string[]? levels;
+    public Keyframe[]? keyframes;
+    public Debug[]? debug_info;
+    public TickMark[]? tick_marks;
+    public string[]? packages;
+    public string[]? objects;
+    public string[]? names;
+    public ClassIndex[]? class_indices;
 }

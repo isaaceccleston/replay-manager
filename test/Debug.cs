@@ -1,5 +1,5 @@
 public class Debug(){
-    public Int64 frame{get;set;}
-    public string user{get;set;}
-    public string text{get;set;}
+    public int? frame;
+    public string? user;
+    public string? text;
 }

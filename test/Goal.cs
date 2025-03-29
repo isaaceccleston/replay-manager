@@ -1,5 +1,5 @@
 public class Goal(){
-    public Int64 frame{get;set;}
-    public string PlayerName{get;set;}
-    public int PlayerTeam{get;set;}
+    public int? frame;
+    public string? PlayerName;
+    public int? PlayerTeam;
 }

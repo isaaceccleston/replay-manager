@@ -1,6 +1,6 @@
 public class Highlight(){
-    public Int64 frame{get;set;}
-    public string CarName{get;set;}
-    public string BallName{get;set;}
-    public string GoalActorName{get;set;}
+    public int? frame;
+    public string? CarName;
+    public string? BallName;
+    public string? GoalActorName;
 }
