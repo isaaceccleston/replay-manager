@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/isaaceccleston/Documents/replay-manager/test/test.csproj": {}
+    "C:\\Users\\gydre\\Documents\\RLTesting\\replay-manager\\test\\test.csproj": {}
   },
   "projects": {
-    "/Users/isaaceccleston/Documents/replay-manager/test/test.csproj": {
+    "C:\\Users\\gydre\\Documents\\RLTesting\\replay-manager\\test\\test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/isaaceccleston/Documents/replay-manager/test/test.csproj",
+        "projectUniqueName": "C:\\Users\\gydre\\Documents\\RLTesting\\replay-manager\\test\\test.csproj",
         "projectName": "test",
-        "projectPath": "/Users/isaaceccleston/Documents/replay-manager/test/test.csproj",
-        "packagesPath": "/Users/isaaceccleston/.nuget/packages/",
-        "outputPath": "/Users/isaaceccleston/Documents/replay-manager/test/obj/",
+        "projectPath": "C:\\Users\\gydre\\Documents\\RLTesting\\replay-manager\\test\\test.csproj",
+        "packagesPath": "C:\\Users\\gydre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gydre\\Documents\\RLTesting\\replay-manager\\test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/isaaceccleston/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\gydre\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
