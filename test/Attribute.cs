@@ -1,3 +1,4 @@
+using System.Data;
 using System.Diagnostics.Contracts;
 
 public class Attribute(){
@@ -9,8 +10,5 @@ public class Attribute(){
     public string String;
     public bool Boolean;
 
-    public string RbToString()
-    {
-        return $"Attribute: {rigidBody.ToString()}";
-    } 
+    public StatEvent statEvent;
 }

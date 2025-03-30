@@ -1,0 +1,97 @@
+/Users/isaaceccleston/Documents/replay-manager/24e76fa9-e0fd-4257-b139-ed8aa36c8e48.json
+
+time: 88.52431s
+StatEvent[unknown1:false, object_id:-1]
+
+time: 148.89915s
+StatEvent[unknown1:false, object_id:-1]
+
+time: 164.08958s
+StatEvent[unknown1:false, object_id:-1]
+
+time: 165.20363s
+StatEvent[unknown1:false, object_id:-1]
+
+time: 240.02386s
+StatEvent[unknown1:false, object_id:-1]
+
+time: 242.9288s
+StatEvent[unknown1:false, object_id:-1]
+
+time: 252.24294s
+StatEvent[unknown1:false, object_id:-1]
+
+time: 257.2223s
+StatEvent[unknown1:false, object_id:-1]
+
+time: 279.21793s
+StatEvent[unknown1:false, object_id:-1]
+
+time: 323.34967s
+StatEvent[unknown1:false, object_id:-1]
+
+time: 329.72433s
+StatEvent[unknown1:false, object_id:-1]
+
+time: 361.08328s
+StatEvent[unknown1:false, object_id:-1]
+
+time: 421.8133s
+StatEvent[unknown1:false, object_id:-1]
+
+time: 438.50586s
+StatEvent[unknown1:false, object_id:-1]
+
+time: 505.64447s
+StatEvent[unknown1:false, object_id:-1]
+
+time: 530.4814s
+StatEvent[unknown1:false, object_id:-1]
+
+time: 544.4703s
+StatEvent[unknown1:false, object_id:-1]
+
+time: 561.1956s
+StatEvent[unknown1:false, object_id:-1]
+
+time: 577.2197s
+StatEvent[unknown1:false, object_id:-1]
+
+time: 588.61285s
+StatEvent[unknown1:false, object_id:-1]
+
+
+/Users/isaaceccleston/Documents/replay-manager/5860f1dd-bd16-4116-8d45-d3dd2250ffc6.json
+
+time: 36.223896s
+StatEvent[unknown1:false, object_id:-1]
+
+time: 43.440628s
+StatEvent[unknown1:false, object_id:-1]
+
+time: 81.7686s
+StatEvent[unknown1:false, object_id:-1]
+
+time: 133.16835s
+StatEvent[unknown1:false, object_id:-1]
+
+time: 220.86867s
+StatEvent[unknown1:false, object_id:-1]
+
+time: 225.9112s
+StatEvent[unknown1:false, object_id:-1]
+
+time: 250.73117s
+StatEvent[unknown1:false, object_id:-1]
+
+time: 279.1644s
+StatEvent[unknown1:false, object_id:-1]
+
+time: 312.98398s
+StatEvent[unknown1:false, object_id:-1]
+
+time: 316.06122s
+StatEvent[unknown1:false, object_id:-1]
+
+time: 364.42947s
+StatEvent[unknown1:false, object_id:-1]
